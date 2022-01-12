@@ -8,10 +8,12 @@ I would say I have a sense of my language learning style before taking this ques
 ## Were the results accurate? Please elaborate (e.g. what results were accurate, what are not).
 ### Language Learning Attitude
 ![Language Learning Attitude](https://i.imgur.com/5mgpZag.png)
+
 I feel like the results were pretty accurate. I struggle with GAD (general anxiety discord), so naturally, I would prefer anything that's low anxiety and risk-averse. I have been put down by my parents so many times, to the point in which I don't really care about my self-image and ego. I generally spend more time learning things I'm motivated or captivated by a sense of desire to find out the unknown.
 
 ### Brain Dominance
 ![Brain Dominance](https://i.imgur.com/hI2skqp.png)
+
 I feel like this is accurate. I've always known that I'm logical/analytical (left brain) with a touch of creativity in arts (right side).
 
 ### Meyers-Briggs
