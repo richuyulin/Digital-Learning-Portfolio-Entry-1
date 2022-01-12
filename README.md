@@ -6,11 +6,18 @@ My personal goal for Chinese this semester is to learn more Chinese characters. 
 I would say I have a sense of my language learning style before taking this questionnaire. This is because I was exposed to many languages growing up and forced to learn them without much success. I find it difficult to hear a phrase and can't pair it with any characters or words. This is because written stuff helps with my memory. So Fujianese dialect, for example, was very difficult for me to understand because there weren't a separate set of characters to match, and I already associated Chinese simplified characters with mandarin. I also find I learn more by using rather than memorizing. So I force myself to jump into French communities on Discord and just practice and allow others to correct me. 
 
 ## Were the results accurate? Please elaborate (e.g. what results were accurate, what are not).
-Language Learning Attitude
+# Language Learning Attitude
 ![Language Learning Attitude](https://i.imgur.com/5mgpZag.png)
 I feel like the results were pretty accurate. I struggle with GAD (general anxiety discord), so naturally, I would prefer anything that's low anxiety and risk-averse. I have been put down by my parents so many times, to the point in which I don't really care about my self-image and ego. I generally spend more time learning things I'm motivated or captivated by a sense of desire to find out the unknown.
 
-Brain Dominance
+# Brain Dominance
+![Brain Dominance](https://i.imgur.com/hI2skqp.png)
+I feel like this is accurate. I've always known that I'm logical/analytical (left brain) with a touch of creativity in arts (right side).
+
+# Meyers-Briggs
+
+
+
 
 ## Welcome to GitHub Pages
 
