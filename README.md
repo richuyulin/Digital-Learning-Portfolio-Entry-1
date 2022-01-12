@@ -27,43 +27,8 @@ I have used Quizlet before, but that was a while ago. I only use Quizlet to do p
 
 I have used WeChat before, have been since like 2011 or 2012. I'm personally not a fan of WeChat because the Chinese government is always monitoring every message sent there. But I use it to keep in touch with my relatives in China, so I check it every week. More frequently if I know there's something important unfolding. 
 
+## How do you like Quizlet and WeChat so far? Please state your reasons (like or don’t like).
 
+I do not like Quizlet because it encourages memory-based learning rather than understanding. As a result, students could learn the wrong information if they're sharing Quizlet flashcards rather than making their own. And sharing Quizlet flashcards is a frequent scenario in today's society as students are busy and don't always have time to make their own resources. 
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/richuyulin/Digital-Learning-Portfolio-Entry-1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richuyulin/Digital-Learning-Portfolio-Entry-1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I don't like WeChat because of the Chinese governments restrictions. It keeps prompting me that my account is considered suspicious just because of how long I've been over seas. And one wrong message could get me banned from China or ordered to be executed next time I return to visit my relatives. Not to mention the WeChat app takes up a ton of storage. 
