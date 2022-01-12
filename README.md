@@ -1,6 +1,15 @@
 ## Personal goals for Chinese this semester
 
-My personal goals for Chinese this semester is to be able to learn to recognize more characters. This would allow me to better communicate with my grandparents through text and decrease the need of me needing to use google translate speak out loud feature. I would also like to learn to hand write Chinese characters. Learning to type pinyin of a character and recognizing it on screen isn't necessarily the same as being able to write it on the spot. 
+My personal goal for Chinese this semester is to learn more Chinese characters. This would allow me to better communicate with my grandparents through text and decrease the need to use the google translate speak out loud feature. I would also like to practice writing more Chinese characters. For me, there's a difference between being able to recognize characters and being able to handwrite the character without reference. So I'm hoping I'll have some opportunity to practice handwriting Chinese and reach a level beyond recognition for Chinese characters. In terms of pronunciation for Chinese, get better at distinguishing between h and no h sound in ch, sh, and zh sounds.
+
+## Did you know your language learning style before taking this questionaire?
+
+
+
+
+
+
+
 
 ![Image](https://i.imgur.com/2jsuxIq.png)
 
