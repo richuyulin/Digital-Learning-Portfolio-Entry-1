@@ -2,7 +2,7 @@
 
 My personal goals for Chinese this semester is to be able to learn to recognize more characters. This would allow me to better communicate with my grandparents through text and decrease the need of me needing to use google translate speak out loud feature. I would also like to learn to hand write Chinese characters. Learning to type pinyin of a character and recognizing it on screen isn't necessarily the same as being able to write it on the spot. 
 
-
+![Image](https://i.imgur.com/2jsuxIq.png)
 
 ## Welcome to GitHub Pages
 
