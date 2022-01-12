@@ -17,6 +17,15 @@ I feel like the results were pretty accurate. I struggle with GAD (general anxie
 I feel like this is accurate. I've always known that I'm logical/analytical (left brain) with a touch of creativity in arts (right side).
 
 ### Meyers-Briggs
+![Meyers-Briggs](https://i.imgur.com/yBotWLQ.png)
+
+I feel like this is accurate. I see myself as such, plus I did a similar test a while back on my personality and came out with the same result. 
+
+## Have you used Quizlet and Wechat before? If you have, for what purpose? How often do you use it?
+
+I have used Quizlet before, but that was a while ago. I only use Quizlet to do practice questions for upcoming assessments if others have already created practice flashcards. I don't find flashcards particularly helpful for me, so I end up not spending any time making them. But I think flashcards are a good way to quiz yourself and see what you don't know right before an actual assessment. 
+
+I have used WeChat before, have been since like 2011 or 2012. I'm personally not a fan of WeChat because the Chinese government is always monitoring every message sent there. But I use it to keep in touch with my relatives in China, so I check it every week. More frequently if I know there's something important unfolding. 
 
 
 
