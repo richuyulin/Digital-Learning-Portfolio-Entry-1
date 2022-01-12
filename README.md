@@ -7,7 +7,7 @@ I would say I have a sense of my language learning style before taking this ques
 
 ## Were the results accurate? Please elaborate (e.g. what results were accurate, what are not).
 
-![Image](https://imgur.com/a/1UneR26)
+![Image](https://i.imgur.com/5mgpZag.png)
 
 
 ## Welcome to GitHub Pages
