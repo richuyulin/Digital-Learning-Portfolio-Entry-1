@@ -3,7 +3,7 @@
 My personal goal for Chinese this semester is to learn more Chinese characters. This would allow me to better communicate with my grandparents through text and decrease the need to use the google translate speak out loud feature. I would also like to practice writing more Chinese characters. For me, there's a difference between being able to recognize characters and being able to handwrite the character without reference. So I'm hoping I'll have some opportunity to practice handwriting Chinese and reach a level beyond recognition for Chinese characters. In terms of pronunciation for Chinese, get better at distinguishing between h and no h sound in ch, sh, and zh sounds.
 
 ## Did you know your language learning style before taking this questionaire?
-
+I would say I have a sense of my language learning style before taking this questionaire. This is because I was exposed to many languages growing up and forced to attempt to learn them without much success. I find it difficult when I just hear phrase and can't pair it to written words, because written stuff helps with my memory. So Fujianese dialect for example was very difficult to even just to be able to understand because there weren't a separate set of characters to match and I already associated Chinese simplified characters with mandarin. I'm also find I learn more by using rather than memorizing. So I force myself to jump into French communities on Discord and just practice and allow others to correct me. 
 
 
 
