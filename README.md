@@ -7,11 +7,8 @@ I would say I have a sense of my language learning style before taking this ques
 
 ## Were the results accurate? Please elaborate (e.g. what results were accurate, what are not).
 
+![Language Learning Attitudes](https://imgur.com/5mgpZag)
 
-
-
-
-![Image](https://i.imgur.com/2jsuxIq.png)
 
 ## Welcome to GitHub Pages
 
